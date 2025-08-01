@@ -1,6 +1,6 @@
 [submodule "EigenPlaces"]
 	path = EigenPlaces
-	url = .\\EigenPlaces\\
+	url = https://github.com/dom-wuest/EigenPlaces.git
 [submodule "CosPlace"]
 	path = CosPlace
-	url = .\\CosPlace\\
+	url = https://github.com/dom-wuest/CosPlace.git
