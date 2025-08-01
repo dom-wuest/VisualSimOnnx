@@ -1,0 +1,6 @@
+[submodule "EigenPlaces"]
+	path = EigenPlaces
+	url = .\\EigenPlaces\\
+[submodule "CosPlace"]
+	path = CosPlace
+	url = .\\CosPlace\\
